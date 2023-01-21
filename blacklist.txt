@@ -1,0 +1,4 @@
+# > Instagram
+HOST-SUFFIX,instagram.com,QuanRU
+# > Facebook
+HOST-SUFFIX,facebook.com,QuanRU
