@@ -93993,3 +93993,6 @@ DOMAIN-SUFFIX,theins.ru,QuanRU
 DOMAIN-SUFFIX,yt3.ggpht.com,QuanRU
 DOMAIN-SUFFIX,play.google.com,QuanRU
 DOMAIN-SUFFIX,play.google.ru,QuanRU
+DOMAIN-SUFFIX,openai.com,QuanRU
+DOMAIN-SUFFIX,ai.com,QuanRU
+DOMAIN-SUFFIX,threads.net,QuanRU
